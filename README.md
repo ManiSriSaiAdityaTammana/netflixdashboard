@@ -47,8 +47,8 @@ This section provides detailed information about a specific title. The informati
 
 ## Files
 
-- `Dashboard.twb`: Tableau workbook file containing all the visualizations.
-- `README.md`: This file, providing an overview and details about the dashboard.
+-  Tableau workbook file containing all the visualizations.
+-  This file, providing an overview and details about the dashboard.
 
 ## Requirements
 
