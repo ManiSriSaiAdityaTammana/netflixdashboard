@@ -60,7 +60,7 @@ If you have suggestions or improvements, feel free to create a pull request or o
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the file for details.
 
 ## Acknowledgements
 
